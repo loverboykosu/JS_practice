@@ -1,0 +1,33 @@
+.loginForm{
+    width: 300px;
+    text-align: left;
+    margin: auto;
+    margin-top: 10%;
+    border: 1px solid rgb(246, 221, 166);
+    background: rgb(255,235,193);
+    padding-left: 0.5em;
+    padding-top: 0.5em;
+    border-radius: 3px;
+}
+
+.inputId{
+    padding-left: 0.5em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.inputPassword{
+    padding-left: 0.5em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.sendButton{
+    text-align: right;
+    padding-right: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.red{
+    color: red;
+}
